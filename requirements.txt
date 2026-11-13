@@ -1,0 +1,8 @@
+# A股看盘工具后端依赖
+# Python 3.10+（已在 3.14 验证）
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pandas>=1.5
+requests>=2.28
+zzshare>=0.4.13
+akshare>=1.12
